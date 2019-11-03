@@ -1,0 +1,10 @@
+E:\TeacherNotepad\TeacherNotepadData\bin\Debug\TeacherNotepadData.dacpac
+E:\TeacherNotepad\TeacherNotepadData\bin\Debug\TeacherNotepadData.dll
+E:\TeacherNotepad\TeacherNotepadData\bin\Debug\TeacherNotepadData.pdb
+E:\TeacherNotepad\TeacherNotepadData\obj\Debug\TeacherNotepadData.sqlprojAssemblyReference.cache
+E:\TeacherNotepad\TeacherNotepadData\obj\Debug\Model.xml
+E:\TeacherNotepad\TeacherNotepadData\obj\Debug\refactor.xml
+E:\TeacherNotepad\TeacherNotepadData\obj\Debug\postdeploy.sql
+E:\TeacherNotepad\TeacherNotepadData\obj\Debug\predeploy.sql
+E:\TeacherNotepad\TeacherNotepadData\obj\Debug\TeacherNotepadData.dll
+E:\TeacherNotepad\TeacherNotepadData\obj\Debug\TeacherNotepadData.pdb
