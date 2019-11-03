@@ -112,3 +112,5 @@ E:\TeacherNotepad\TNDataManager\obj\Debug\TNDataManager.csproj.CoreCompileInputs
 E:\TeacherNotepad\TNDataManager\obj\Debug\TNDataManager.csproj.CopyComplete
 E:\TeacherNotepad\TNDataManager\obj\Debug\TNDataManager.dll
 E:\TeacherNotepad\TNDataManager\obj\Debug\TNDataManager.pdb
+E:\TeacherNotepad\TNDataManager\bin\Swashbuckle.Core.dll
+E:\TeacherNotepad\TNDataManager\bin\WebActivatorEx.dll
