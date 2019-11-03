@@ -17,7 +17,8 @@ namespace TNDataManager
             GlobalConfiguration.Configuration
                 .EnableSwagger(c =>
                     {
-                        c.DocumentFilter<AuthTokenOperation>(); //Кореспондира с App_Start-->AuthTokenOperation и метода Apply()
+                        c.DocumentFilter<AuthTokenOperation>(); //Кореспондира с App_Start-->AuthTokenOperation и метода Apply() 
+                        c.OperationFilter<AuthorizationOperationFilter>();//Allows for an extra parameter for every method with a token
 
                         // By default, the service root url is inferred from the request used to access the docs.
                         // However, there may be situations (e.g. proxy and load-balanced environments) where this does not

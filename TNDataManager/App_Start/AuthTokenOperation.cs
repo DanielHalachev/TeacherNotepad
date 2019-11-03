@@ -10,9 +10,11 @@ namespace TNDataManager.App_Start
     public class AuthTokenOperation : IDocumentFilter
     {
         public void Apply(SwaggerDocument swaggerDoc, SchemaRegistry schemaRegistry, IApiExplorer apiExplorer)
-        {   
+        {
             //Adds a new route 
             // Добавя нов път
+            //Taken from https://stackoverflow.com/questions/51117655/how-to-use-swagger-in-asp-net-webapi-2-0-with-token-based-authentication
+            //  Взето от #
             swaggerDoc.paths.Add("/token", new PathItem 
             {
                 post = new Operation //POST
