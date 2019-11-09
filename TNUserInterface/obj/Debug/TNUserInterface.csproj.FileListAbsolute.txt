@@ -23,3 +23,5 @@ E:\TeacherNotepad\TNUserInterface\obj\Debug\Views\ShellView.baml
 E:\TeacherNotepad\TNUserInterface\obj\Debug\TNUserInterface.csproj.CopyComplete
 E:\TeacherNotepad\TNUserInterface\obj\Debug\GeneratedInternalTypeHelper.g.cs
 E:\TeacherNotepad\TNUserInterface\obj\Debug\App.baml
+E:\TeacherNotepad\TNUserInterface\obj\Debug\Views\LoginView.g.cs
+E:\TeacherNotepad\TNUserInterface\obj\Debug\Views\LoginView.baml
