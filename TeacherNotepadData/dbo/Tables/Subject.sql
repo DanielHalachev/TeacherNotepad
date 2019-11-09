@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Subject]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [SubJectName] NVARCHAR(60) NOT NULL
+)

@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[Lesson]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [TeacherId] NVARCHAR(128) NOT NULL, 
+	[Subject] NVARCHAR (120) NOT NULL,
+	[Topic] NVARCHAR(120) NULL,
+    [LessonStartTime] SMALLDATETIME NOT NULL, 
+    [LessonEndTime] SMALLDATETIME NOT NULL, 
+    [LessonLenght] TIME NOT NULL DEFAULT 0, 
+    [IsLessonPaidFor] BIT NULL DEFAULT 1,
+	[Price] MONEY NULL DEFAULT 0,
+    [LessonNotes] TEXT NULL
+)
