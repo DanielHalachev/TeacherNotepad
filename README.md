@@ -1,2 +1,2 @@
 # TeacherNotepad
-A (private) teacher's lesson schedule manager by KotakaDanski **(Daniel Halachev)**
+An experimental unfinished (private) teacher's lesson schedule manager by KotakaDanski **(Daniel Halachev)**
